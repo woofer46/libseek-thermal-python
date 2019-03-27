@@ -2,4 +2,4 @@
 ## Requirements
 https://github.com/maartenvds/libseek-thermal
 
-next comming soon
+next coming soon
